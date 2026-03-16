@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-**'Computer science student'**
+**`Computer science student`**
