@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at WSB Merito University.<br>Field of study: Computer Science.<br>Aspiring DevOps Engineer
+I'm a student at WSB Merito University.<br>Field of study: Computer Science.
 
 
 # 💻 Tech Stack:
